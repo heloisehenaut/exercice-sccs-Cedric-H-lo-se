@@ -40,6 +40,13 @@
   }
 }
 
+.footer {
+  background-color: white;
+  height: 2rem;
+  text-align: center;
+  line-height: 2rem;
+}
+
 body {
   background-color: blue;
 }
