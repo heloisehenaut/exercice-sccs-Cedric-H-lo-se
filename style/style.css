@@ -1,11 +1,11 @@
 .search-form {
-  background-color: red;
+  background-color: grey;
 }
 .search-form_input {
-  color: blue;
+  color: violet;
 }
 .search-form_button {
-  background: yellow;
+  background: #82ee82;
   color: white;
 }
 
@@ -48,7 +48,7 @@
 }
 
 body {
-  background-color: blue;
+  background-color: violet;
 }
 @media screen and (min-width: 860px) {
   body {
