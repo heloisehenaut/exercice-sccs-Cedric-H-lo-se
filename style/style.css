@@ -1,12 +1,12 @@
 .search-form {
-  background-color: yellow;
+  background-color: red;
 }
 .search-form_input {
-  color: green;
+  color: blue;
 }
 .search-form_button {
-  background: purple;
-  color: #e6ffe6;
+  background: yellow;
+  color: white;
 }
 
 .nav-bar {
@@ -41,7 +41,7 @@
 }
 
 body {
-  background-color: green;
+  background-color: blue;
 }
 @media screen and (min-width: 860px) {
   body {
