@@ -1,0 +1,5 @@
+$color_primaire : green;
+$color_secondaire: yellow;
+$color_primaire_complement: complement($color_primaire);
+$color_primaire_light: lighten($color_primaire,70);
+$breackpoint: 860px;

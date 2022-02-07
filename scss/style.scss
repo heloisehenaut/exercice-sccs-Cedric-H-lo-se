@@ -1,0 +1,15 @@
+@import "variables";
+@import "mixins";
+@import "_components/search-form";
+@import "_components/nav-bar";
+
+body {
+    background-color:$color_primaire;
+    @include desktopView($breackpoint) {
+        background-color:yellow;
+    }
+}
+
+p {
+    color:red;
+}
