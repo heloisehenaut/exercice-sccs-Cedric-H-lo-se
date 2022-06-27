@@ -7,7 +7,7 @@
 body {
     background-color:$color_primaire;
     @include desktopView($breackpoint) {
-        background-color:rgb(120, 176, 235);
+        background-color:rgb(255, 255, 255);
     }
 }
 
@@ -18,3 +18,5 @@ p {
     background: $color_primaire_fonce;
     padding: 1rem;
 }
+
+    
