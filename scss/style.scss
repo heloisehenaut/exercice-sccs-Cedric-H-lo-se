@@ -3,7 +3,7 @@
 @import "_components/search-form";
 @import "_components/nav-bar";
 @import "_components/footer";
-
+@import "_components/header";
 body {
     background-color:$color_primaire;
     @include desktopView($breackpoint) {
